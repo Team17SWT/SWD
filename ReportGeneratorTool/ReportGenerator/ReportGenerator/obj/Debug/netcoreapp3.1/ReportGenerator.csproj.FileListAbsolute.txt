@@ -1,0 +1,13 @@
+C:\IKT\SWD\ReportGeneratorTool\ReportGenerator\ReportGenerator\bin\Debug\netcoreapp3.1\ReportGenerator.exe
+C:\IKT\SWD\ReportGeneratorTool\ReportGenerator\ReportGenerator\bin\Debug\netcoreapp3.1\ReportGenerator.deps.json
+C:\IKT\SWD\ReportGeneratorTool\ReportGenerator\ReportGenerator\bin\Debug\netcoreapp3.1\ReportGenerator.runtimeconfig.json
+C:\IKT\SWD\ReportGeneratorTool\ReportGenerator\ReportGenerator\bin\Debug\netcoreapp3.1\ReportGenerator.runtimeconfig.dev.json
+C:\IKT\SWD\ReportGeneratorTool\ReportGenerator\ReportGenerator\bin\Debug\netcoreapp3.1\ReportGenerator.dll
+C:\IKT\SWD\ReportGeneratorTool\ReportGenerator\ReportGenerator\bin\Debug\netcoreapp3.1\ReportGenerator.pdb
+C:\IKT\SWD\ReportGeneratorTool\ReportGenerator\ReportGenerator\obj\Debug\netcoreapp3.1\ReportGenerator.csprojAssemblyReference.cache
+C:\IKT\SWD\ReportGeneratorTool\ReportGenerator\ReportGenerator\obj\Debug\netcoreapp3.1\ReportGenerator.AssemblyInfoInputs.cache
+C:\IKT\SWD\ReportGeneratorTool\ReportGenerator\ReportGenerator\obj\Debug\netcoreapp3.1\ReportGenerator.AssemblyInfo.cs
+C:\IKT\SWD\ReportGeneratorTool\ReportGenerator\ReportGenerator\obj\Debug\netcoreapp3.1\ReportGenerator.csproj.CoreCompileInputs.cache
+C:\IKT\SWD\ReportGeneratorTool\ReportGenerator\ReportGenerator\obj\Debug\netcoreapp3.1\ReportGenerator.dll
+C:\IKT\SWD\ReportGeneratorTool\ReportGenerator\ReportGenerator\obj\Debug\netcoreapp3.1\ReportGenerator.pdb
+C:\IKT\SWD\ReportGeneratorTool\ReportGenerator\ReportGenerator\obj\Debug\netcoreapp3.1\ReportGenerator.genruntimeconfig.cache
